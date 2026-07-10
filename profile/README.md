@@ -5,12 +5,27 @@
 - [ ] Add translations
 - [ ] Add regional sources (IndoPak, etc)
 - [ ] Audio
-- [x] ~Get Tafsir-e-Namoona(Grand Ayatollah Naser Makarem Shirazi) generator~
-- [ ] Get Tafsir-ul-Mizan(Allamah Sayyid Muhammad Husayn Tabataba'i) generator
-- [ ] Get Tafsir-e-Burhan(Sayyid Hashim al-Bahrani) generator
-- [ ] Get Tafsir-e-Rehnuma(Ayatollah Ali Akbar Hashemi Rafsanjani) generator
-- [ ] Get Tafsir-ul-Kashif(Allama Sheikh Muhammad Jawad Mughniyah) generator
-- [ ] Get Tafseer-e-Nur(Ayatullah Sheikh Mohsin Qara'ati) generator
+- [x] ~Add Tafsir-e-Namoona(Grand Ayatollah Naser Makarem Shirazi)~
+- [ ] Add Tafsir-ul-Mizan(Allamah Sayyid Muhammad Husayn Tabataba'i)
+- [ ] Add Tafsir-e-Burhan(Sayyid Hashim al-Bahrani)
+- [ ] Add Tafsir-e-Rehnuma(Ayatollah Ali Akbar Hashemi Rafsanjani)
+- [ ] Add Tafsir-ul-Kashif(Allama Sheikh Muhammad Jawad Mughniyah)
+- [ ] Add Tafseer-e-Nur(Ayatullah Sheikh Mohsin Qara'ati)
+- [ ] Add Sahifah al-Muhammadiyya
+- [ ] Add Sahifah al-Alawiyya
+- [ ] Add Sahifah al-Fatimiyya
+- [ ] Add Sahifah al-Hasaniyya
+- [ ] Add Sahifah al-Husayniyya
+- [ ] Add Sahifah al-Sajjadiyya
+- [ ] Add Sahifah al-Baqiriyya
+- [ ] Add Sahifah al-Ja'fariyya
+- [ ] Add Sahifah al-Kazimiyya
+- [ ] Add Sahifah al-Radhaviyya
+- [ ] Add Sahifah al-Jawadiyya
+- [ ] Add Sahifah al-Hadiyya
+- [ ] Add Sahifah al-Askariyya
+- [ ] Add Sahifah al-Mahdiyya
+
 
 ### Bugs to Fix
 - [ ] When tajweed is off, the word hover still shows the tajweed rules per word
