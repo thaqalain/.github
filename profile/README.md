@@ -28,9 +28,11 @@
 - [ ] Add Sahifah al-Mahdiyya
 
 
-### Bugs to Fix
+### Bugs to Fix | Changes to Make
+- [ ] Make the settings sections collapsible
 - [ ] When tajweed is off, the word hover still shows the tajweed rules per word
 - [ ] Fix the initial load not working thingy (delay thingy)
+- [ ] Fix the tafsir of the same name but different language appear with the same name
 - [x] ~Change spans to lucide icons~
 - [x] ~Change the surah picker, not at current surah~
 - [x] ~Update quran render spacing~
