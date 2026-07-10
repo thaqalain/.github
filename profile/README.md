@@ -1,6 +1,4 @@
 ### Features
-- [x] ~Change the surah picker, not at current surah~
-- [x] ~Update quran render spacing~
 - [ ] Option to enable/disable word hover
 - [ ] Option to customize hover details (can enable/disable particular things, like transliteration, translation, tajweed rules, etc)
 - [ ] Full verse transliteration
@@ -16,6 +14,8 @@
 - [ ] When tajweed is off, the word hover still shows the tajweed rules per word
 - [ ] Fix the initial load not working thingy (delay thingy)
 - [x] ~Change spans to lucide icons~
+- [x] ~Change the surah picker, not at current surah~
+- [x] ~Update quran render spacing~
 
 ### Ideas
 - [ ] Tafsir Comparision
