@@ -2,6 +2,8 @@
 - [ ] Option to enable/disable word hover
 - [ ] Option to customize hover details (can enable/disable particular things, like transliteration, translation, tajweed rules, etc)
 - [ ] Full verse transliteration
+- [ ] Add translations
+- [ ] Add regional sources (IndoPak, etc)
 - [ ] Audio
 - [x] ~Get Tafsir-e-Namoona(Grand Ayatollah Naser Makarem Shirazi) generator~
 - [ ] Get Tafsir-ul-Mizan(Allamah Sayyid Muhammad Husayn Tabataba'i) generator
