@@ -2,6 +2,7 @@
 - [ ] Option to enable/disable word hover
 - [ ] Option to customize hover details (can enable/disable particular things, like transliteration, translation, tajweed rules, etc)
 - [ ] Full verse transliteration
+- [ ] Add mulitple languages in word hover
 - [ ] Add translations
 - [ ] Add regional sources (IndoPak, etc)
 - [ ] Audio
