@@ -33,6 +33,8 @@
 - [x] ~When tajweed is off, the word hover still shows the tajweed rules per word~
 - [ ] Ayat not showing in Tafsir Sheet
 - [ ] Change PWA top to be same color as header color
+- [ ] PWA top has border when moving from dark theme to sepia
+- [ ] App header is slightly transparent, remove transparency
 - [ ] Center Allign -> Right Allign
 - [ ] Tafsir Button beneath each verse
 - [ ] Refactor Home page (Dynamic Fluid Search bar replacing header, change the daily spiritual, Option to move to Quran directly from Home)
