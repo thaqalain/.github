@@ -1,8 +1,8 @@
 ### Features
-- [ ] Option to enable/disable word hover
-- [ ] Option to customize hover details (can enable/disable particular things, like transliteration, translation, tajweed rules, etc)
+- [x] Option to enable/disable word hover
+- [x] Option to customize hover details (can enable/disable particular things, like transliteration, translation, tajweed rules, etc)
 - [ ] Full verse transliteration
-- [ ] Add mulitple languages in word hover
+- [x] Add mulitple languages in word hover
 - [ ] Add translations
 - [ ] Add regional sources (IndoPak, etc)
 - [ ] Audio
@@ -29,8 +29,8 @@
 
 
 ### Bugs to Fix | Changes to Make
-- [ ] Make the settings sections collapsible
-- [ ] When tajweed is off, the word hover still shows the tajweed rules per word
+- [x] Make the settings sections collapsible
+- [x] When tajweed is off, the word hover still shows the tajweed rules per word
 - [ ] Center Allign -> Right Allign
 - [ ] Tafsir Button beneath each verse
 - [ ] Refactor Home page (Dynamic Fluid Search bar replacing header, change the daily spiritual, Option to move to Quran directly from Home)
