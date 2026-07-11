@@ -1,9 +1,9 @@
 ### Features
 - [x] ~Option to enable/disable word hover~
 - [x] ~Option to customize hover details (can enable/disable particular things, like transliteration, translation, tajweed rules, etc)~
-- [ ] Full verse transliteration
 - [x] ~Add mulitple languages in word hover~
 - [ ] Add translations
+- [ ] Full verse transliteration
 - [ ] Add regional sources (IndoPak, etc)
 - [ ] Audio
 - [x] ~Add Tafsir-e-Namoona(Grand Ayatollah Naser Makarem Shirazi)~
@@ -31,15 +31,18 @@
 ### Bugs to Fix | Changes to Make
 - [x] ~Make the settings sections collapsible~
 - [x] ~When tajweed is off, the word hover still shows the tajweed rules per word~
+- [ ] Change Verse font in Ayat of the Day
 - [ ] Ayat not showing in Tafsir Sheet
-- [ ] Change PWA top to be same color as header color
+- [x] ~Change PWA top to be same color as header color~
+- [ ] PWA top bugs back to white when switching themes
 - [ ] PWA top has border when moving from dark theme to sepia
 - [ ] App header is slightly transparent, remove transparency
-- [ ] Center Allign -> Right Allign
+- [x] ~Center Allign -> Right Allign~
 - [ ] Tafsir Button beneath each verse
+- [ ] In the tafsir selector drop down, remove the [language] in golden border, and just use what is being shown on the selection. Like Tafsir-e-Namuna English
 - [ ] Refactor Home page (Dynamic Fluid Search bar replacing header, change the daily spiritual, Option to move to Quran directly from Home)
 - [ ] Fix the initial load not working thingy (delay thingy)
-- [ ] Fix the tafsir of the same name but different language appear with the same name
+- [x] ~Fix the tafsir of the same name but different language appear with the same name~
 - [x] ~Change spans to lucide icons~
 - [x] ~Change the surah picker, not at current surah~
 - [x] ~Update quran render spacing~
