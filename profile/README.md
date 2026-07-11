@@ -2,6 +2,7 @@
 - [x] ~Option to enable/disable word hover~
 - [x] ~Option to customize hover details (can enable/disable particular things, like transliteration, translation, tajweed rules, etc)~
 - [x] ~Add mulitple languages in word hover~
+- [ ] Add intuitive way to go to a specific verse
 - [ ] Add translations
 - [ ] Full verse transliteration
 - [ ] Add regional sources (IndoPak, etc)
