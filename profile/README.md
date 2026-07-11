@@ -2,7 +2,8 @@
 - [x] ~Option to enable/disable word hover~
 - [x] ~Option to customize hover details (can enable/disable particular things, like transliteration, translation, tajweed rules, etc)~
 - [x] ~Add mulitple languages in word hover~
-- [ ] Add intuitive way to go to a specific verse
+- [x] ~Add intuitive way to go to a specific verse~
+- [ ] Add nuzool order sort in Surah list
 - [ ] Add translations
 - [ ] Full verse transliteration
 - [ ] Add regional sources (IndoPak, etc)
@@ -31,6 +32,9 @@
 
 ### Bugs to Fix | Changes to Make
 - [x] ~Make the settings sections collapsible~
+- [ ] Fix the verse selector not working on mobile
+- [ ] Fix the sticky surah search and verse selector not fixed properly in surah dropdown (back is visible)
+- [ ] Fix surah list not opening when clicking quran from library
 - [x] ~When tajweed is off, the word hover still shows the tajweed rules per word~
 - [ ] Change Verse font in Ayat of the Day
 - [ ] Ayat not showing in Tafsir Sheet
