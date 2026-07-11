@@ -31,6 +31,7 @@
 ### Bugs to Fix | Changes to Make
 - [x] ~Make the settings sections collapsible~
 - [x] ~When tajweed is off, the word hover still shows the tajweed rules per word~
+- [ ] Ayat not showing in Tafsir Sheet
 - [ ] Change PWA top to be same color as header color
 - [ ] Center Allign -> Right Allign
 - [ ] Tafsir Button beneath each verse
