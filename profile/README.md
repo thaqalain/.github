@@ -43,6 +43,7 @@
 
 ### Ideas
 - [ ] Tafsir Comparision
+- [ ] Play tutorial for first time joining
 - [ ] Something to do with Moon (Sighting)
 - [ ] Islamic Timeline + Historical Map
 - [ ] Change Quranic verses data scheme (for RAG-ability and tagging) to enable Semantic Search
