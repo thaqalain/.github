@@ -59,8 +59,9 @@
 - [ ] PWA top bugs back to white when switching themes
 - [ ] PWA top has border when moving from dark theme to sepia
 - [x] ~App header is slightly transparent, remove transparency~
-- [ ] App theme resets in Quran reader when refreshing
+- [x] ~App theme resets in Quran reader when refreshing~
 - [x] ~Center Allign -> Right Allign~
+- [ ] Make right allign default
 - [ ] Tafsir Button beneath each verse
 - [x] ~In the tafsir selector drop down, remove the [language] in golden border, and just use what is being shown on the selection. Like Tafsir-e-Namuna English~
 - [ ] Refactor Home page (Dynamic Fluid Search bar replacing header, change the daily spiritual, Option to move to Quran directly from Home)
