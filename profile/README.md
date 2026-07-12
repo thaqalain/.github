@@ -49,7 +49,7 @@
 
 ## Bugs to Fix | Changes to Make
 - [x] ~Make the settings sections collapsible~
-- [ ] Fix the verse selector not working on mobile
+- [ ] <mark>**Fix the verse selector not working on mobile**</mark>
 - [ ] Fix the sticky surah search and verse selector not fixed properly in surah dropdown (back is visible)
 - [x] ~Fix surah list not opening when clicking quran from library~
 - [x] ~When tajweed is off, the word hover still shows the tajweed rules per word~
