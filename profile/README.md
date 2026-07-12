@@ -8,7 +8,7 @@
 - [x] ~Option to customize hover details (can enable/disable particular things, like transliteration, translation, tajweed rules, etc)~
 - [x] ~Add mulitple languages in word hover~
 - [x] ~Add intuitive way to go to a specific verse~
-- [ ] Add nuzool order sort in Surah list
+- [x] ~Add nuzool order sort in Surah list (according to these sites https://tanzil.net/docs/revelation_order & https://ia800708.us.archive.org/1/items/HistoryOfQuran/History-of-Quran.pdf)~
 - [ ] <mark>**Add translations**</mark>
 - [ ] Full verse transliteration
 - [ ] Add regional sources (IndoPak, etc)
