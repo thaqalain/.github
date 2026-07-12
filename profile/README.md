@@ -1,19 +1,36 @@
-### Features
+## Features
+<details><summary>
+  
+### App Features
+</summary>
+  
 - [x] ~Option to enable/disable word hover~
 - [x] ~Option to customize hover details (can enable/disable particular things, like transliteration, translation, tajweed rules, etc)~
 - [x] ~Add mulitple languages in word hover~
 - [x] ~Add intuitive way to go to a specific verse~
 - [ ] Add nuzool order sort in Surah list
-- [ ] Add translations
+- [ ] <mark>**Add translations**</mark>
 - [ ] Full verse transliteration
 - [ ] Add regional sources (IndoPak, etc)
 - [ ] Audio
+</details>
+<details><summary>
+
+### Tafsir (expand to see more)
+</summary>
+
 - [x] ~Add Tafsir-e-Namoona(Grand Ayatollah Naser Makarem Shirazi)~
 - [ ] Add Tafsir-ul-Mizan(Allamah Sayyid Muhammad Husayn Tabataba'i)
 - [ ] Add Tafsir-e-Burhan(Sayyid Hashim al-Bahrani)
 - [ ] Add Tafsir-e-Rehnuma(Ayatollah Ali Akbar Hashemi Rafsanjani)
 - [ ] Add Tafsir-ul-Kashif(Allama Sheikh Muhammad Jawad Mughniyah)
 - [ ] Add Tafseer-e-Nur(Ayatullah Sheikh Mohsin Qara'ati)
+</details>
+<details><summary>
+  
+### Sahifah (expand to see more)
+</summary>
+
 - [ ] Add Sahifah al-Muhammadiyya
 - [ ] Add Sahifah al-Alawiyya
 - [ ] Add Sahifah al-Fatimiyya
@@ -28,9 +45,9 @@
 - [ ] Add Sahifah al-Hadiyya
 - [ ] Add Sahifah al-Askariyya
 - [ ] Add Sahifah al-Mahdiyya
+</details>
 
-
-### Bugs to Fix | Changes to Make
+## Bugs to Fix | Changes to Make
 - [x] ~Make the settings sections collapsible~
 - [ ] Fix the verse selector not working on mobile
 - [ ] Fix the sticky surah search and verse selector not fixed properly in surah dropdown (back is visible)
@@ -41,7 +58,7 @@
 - [x] ~Change PWA top to be same color as header color~
 - [ ] PWA top bugs back to white when switching themes
 - [ ] PWA top has border when moving from dark theme to sepia
-- [ ] App header is slightly transparent, remove transparency
+- [x] ~App header is slightly transparent, remove transparency~
 - [ ] App theme resets in Quran reader when refreshing
 - [x] ~Center Allign -> Right Allign~
 - [ ] Tafsir Button beneath each verse
@@ -53,7 +70,7 @@
 - [x] ~Change the surah picker, not at current surah~
 - [x] ~Update quran render spacing~
 
-### Ideas
+## Ideas
 - [ ] Tafsir Comparision
 - [ ] Play tutorial for first time joining
 - [ ] Something to do with Moon (Sighting)
