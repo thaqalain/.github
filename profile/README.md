@@ -36,8 +36,8 @@
 - [ ] Fix the sticky surah search and verse selector not fixed properly in surah dropdown (back is visible)
 - [ ] Fix surah list not opening when clicking quran from library
 - [x] ~When tajweed is off, the word hover still shows the tajweed rules per word~
-- [ ] Change Verse font in Ayat of the Day
-- [ ] Ayat not showing in Tafsir Sheet
+- [x] ~Change Verse font in Ayat of the Day~
+- [x] ~Ayat not showing in Tafsir Sheet~
 - [x] ~Change PWA top to be same color as header color~
 - [ ] PWA top bugs back to white when switching themes
 - [ ] PWA top has border when moving from dark theme to sepia
@@ -45,7 +45,7 @@
 - [ ] App theme resets in Quran reader when refreshing
 - [x] ~Center Allign -> Right Allign~
 - [ ] Tafsir Button beneath each verse
-- [ ] In the tafsir selector drop down, remove the [language] in golden border, and just use what is being shown on the selection. Like Tafsir-e-Namuna English
+- [x] ~In the tafsir selector drop down, remove the [language] in golden border, and just use what is being shown on the selection. Like Tafsir-e-Namuna English~
 - [ ] Refactor Home page (Dynamic Fluid Search bar replacing header, change the daily spiritual, Option to move to Quran directly from Home)
 - [ ] Fix the initial load not working thingy (delay thingy)
 - [x] ~Fix the tafsir of the same name but different language appear with the same name~
