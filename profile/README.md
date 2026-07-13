@@ -56,7 +56,7 @@
 - [x] ~Change Verse font in Ayat of the Day~
 - [x] ~Ayat not showing in Tafsir Sheet~
 - [x] ~Change PWA top to be same color as header color~
-- [x] ~PWA top bugs back to white when switching themes~
+- [ ] PWA top bugs back to white when switching themes
 - [ ] PWA top color isnt consistant with quran reader header
 - [ ] PWA top has border when moving from dark theme to sepia
 - [x] ~App header is slightly transparent, remove transparency~
