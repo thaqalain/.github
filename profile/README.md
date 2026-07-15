@@ -9,7 +9,6 @@
 - [x] ~Add mulitple languages in word hover~
 - [x] ~Add intuitive way to go to a specific verse~
 - [x] ~Add nuzool order sort in Surah list (according to these sites https://tanzil.net/docs/revelation_order & https://ia800708.us.archive.org/1/items/HistoryOfQuran/History-of-Quran.pdf)~
-- [x] ~Add translations~
 - [ ] Full verse transliteration
 - [ ] Add regional sources (IndoPak, etc)
 - [ ] Audio
@@ -17,6 +16,18 @@
 </details>
 <details><summary>
 
+### Translations (expand to see more)
+</summary>
+
+- [x] ~Add en.ahmedali~
+- [x] ~Add fa.gharaati~
+- [x] ~Add fa.makarem~
+- [x] ~Add ur.najafi~
+- [x] ~Add ur.qadri~
+- [ ] Add ur.farmanali
+</details>
+<details><summary>
+  
 ### Tafsir (expand to see more)
 </summary>
 
