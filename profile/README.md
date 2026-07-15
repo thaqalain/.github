@@ -68,6 +68,7 @@
 - [ ] Translations should follow a queue based system, whichever is clicked first it displayed first.
 - [ ] Refactor the Verses to add Tafsir & Mafaheem below the verse
 - [ ] Fix the initial load not working thingy (delay thingy)
+- [ ] decide about feature/daily-infographic
 - [x] ~Make the settings sections collapsible~
 - [x] ~Fix the sticky surah search and verse selector not fixed properly in surah dropdown (back is visible)~
 - [x] ~Fix surah list not opening when clicking quran from library~
