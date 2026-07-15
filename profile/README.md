@@ -13,6 +13,7 @@
 - [ ] Full verse transliteration
 - [ ] Add regional sources (IndoPak, etc)
 - [ ] Audio
+- [ ] Data annotation and commiting  portal
 </details>
 <details><summary>
 
@@ -64,6 +65,10 @@
 - [x] ~Center Allign -> Right Allign~
 - [x] ~Make right allign default~
 - [ ] Tafsir Button beneath each verse
+- [ ] Rename Quran Reader to Quran in Quick Links
+- [ ] Increase the recently opened tabs from 4 to 12
+- [ ] The translator's name should be in the language that they translated in
+- [ ] Refactor the Verses to add Tafsir & Mafaheem below the verse
 - [x] ~In the tafsir selector drop down, remove the [language] in golden border, and just use what is being shown on the selection. Like Tafsir-e-Namuna English~
 - [x] ~Refactor Home page (Dynamic Fluid Search bar replacing header, change the daily spiritual, Option to move to Quran directly from Home)~
 - [ ] Fix the initial load not working thingy (delay thingy)
