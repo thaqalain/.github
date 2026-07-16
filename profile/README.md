@@ -13,6 +13,7 @@
 - [ ] Add regional sources (IndoPak, etc)
 - [ ] Audio
 - [ ] Data annotation and commiting  portal
+- [ ] Add Rabbana duas
 </details>
 <details><summary>
 
