@@ -9,7 +9,7 @@
 - [x] ~Add mulitple languages in word hover~
 - [x] ~Add intuitive way to go to a specific verse~
 - [x] ~Add nuzool order sort in Surah list (according to these sites https://tanzil.net/docs/revelation_order & https://ia800708.us.archive.org/1/items/HistoryOfQuran/History-of-Quran.pdf)~
-- [ ] Full verse transliteration
+- [x] ~Full verse transliteration~
 - [ ] Add regional sources (IndoPak, etc)
 - [ ] Audio
 - [ ] Data annotation and commiting  portal
@@ -25,7 +25,7 @@
 - [x] ~Add fa.makarem~
 - [x] ~Add ur.najafi~
 - [x] ~Add ur.qadri~
-- [ ] Add ur.farmanali
+- [x] ~Add ur.farmanali~
 </details>
 <details><summary>
   
@@ -68,6 +68,7 @@
 - [ ] The translator's name should be in the language that they translated in
 - [ ] Fix the initial load not working thingy (delay thingy)
 - [ ] decide about feature/daily-infographic
+- [ ] Populate ur.farmanali to 100%
 - [x] ~Refactor the Verses to add Tafsir & Mafaheem below the verse~
 - [x] ~Translations should follow a queue based system, whichever is clicked first it displayed first.~
 - [x] ~Make the settings sections collapsible~
