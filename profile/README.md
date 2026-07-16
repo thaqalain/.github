@@ -14,6 +14,7 @@
 - [ ] Audio
 - [ ] Data annotation and commiting  portal
 - [ ] Add Rabbana duas
+- [ ] Create tajweed engine
 </details>
 <details><summary>
 
