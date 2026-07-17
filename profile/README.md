@@ -11,6 +11,7 @@
 - [x] ~Add nuzool order sort in Surah list (according to these sites https://tanzil.net/docs/revelation_order & https://ia800708.us.archive.org/1/items/HistoryOfQuran/History-of-Quran.pdf)~
 - [x] ~Full verse transliteration~
 - [ ] Add regional sources (IndoPak, etc)
+- [ ] Add searching capability by Quranic Arabic/Transliteration/Language
 - [ ] Audio
 - [ ] Data annotation and commiting  portal
 - [ ] Add Rabbana duas
