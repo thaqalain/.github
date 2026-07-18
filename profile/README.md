@@ -15,6 +15,7 @@
 - [ ] Audio
 - [ ] Data annotation and commiting  portal
 - [ ] Add Rabbana duas
+- [ ] Add Tawdeeh ul Masail
 - [ ] Create tajweed engine
 </details>
 <details><summary>
@@ -63,14 +64,14 @@
 </details>
 
 ## Bugs to Fix | Changes to Make
-- [ ] <mark>**Fix the verse selector not working on mobile**</mark>
-- [ ] PWA top bugs back to white when switching themes
-- [ ] PWA top color isnt consistant with quran reader header
-- [ ] PWA top has border when moving from dark theme to sepia
-- [ ] The translator's name should be in the language that they translated in
-- [ ] Fix the initial load not working thingy (delay thingy)
-- [ ] decide about feature/daily-infographic
-- [ ] Populate ur.farmanali to 100%
+- [ ] PWA -> top bugs back to white when switching themes
+- [ ] PWA -> top color isnt consistant with quran reader header
+- [ ] PWA -> top has border when moving from dark theme to sepia
+- [ ] DATA -> The translator's name should be in the language that they translated in
+- [ ] DATA -> Populate ur.farmanali to 100%
+- [ ] APP -> decide about feature/daily-infographic
+- [x] ~Fix the initial load not working thingy (delay thingy)~
+- [x] ~Fix the verse selector not working on mobile~
 - [x] ~Remove lang mark from wbw hover~
 - [x] ~Remove Tafsir ul Mizan button from library~
 - [x] ~Refactor the Verses to add Tafsir & Mafaheem below the verse~
