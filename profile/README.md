@@ -71,6 +71,8 @@
 - [ ] Fix the initial load not working thingy (delay thingy)
 - [ ] decide about feature/daily-infographic
 - [ ] Populate ur.farmanali to 100%
+- [ ] Remove lang mark from wbw hover
+- [ ] Remove Tafsir ul Mizan button from library
 - [x] ~Refactor the Verses to add Tafsir & Mafaheem below the verse~
 - [x] ~Translations should follow a queue based system, whichever is clicked first it displayed first.~
 - [x] ~Make the settings sections collapsible~
