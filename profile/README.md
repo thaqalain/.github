@@ -70,6 +70,7 @@
 - [ ] DATA -> The translator's name should be in the language that they translated in
 - [ ] DATA -> Populate ur.farmanali to 100%
 - [ ] APP -> decide about feature/daily-infographic
+- [ ] APP -> Change the mobile keyboard for side panel search
 - [ ] ORG -> Change Organization data structure to individual repos for each data source. Main data repo will pull release files. Source repos will only run pipeline once or when needed, then will only be maintained
 - [x] ~Fix the initial load not working thingy (delay thingy)~
 - [x] ~Fix the verse selector not working on mobile~
