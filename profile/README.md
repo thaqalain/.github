@@ -10,12 +10,12 @@
 - [x] ~Add intuitive way to go to a specific verse~
 - [x] ~Add nuzool order sort in Surah list (according to these sites https://tanzil.net/docs/revelation_order & https://ia800708.us.archive.org/1/items/HistoryOfQuran/History-of-Quran.pdf)~
 - [x] ~Full verse transliteration~
+- [x] ~Add share capability~
 - [ ] Add regional sources (IndoPak, etc)
 - [ ] Add searching capability by Quranic Arabic/Transliteration/Language
 - [ ] Audio
 - [ ] Data annotation and commiting  portal
 - [ ] Add Rabbana duas
-- [x] ~Add share capability~
 - [ ] Create tajweed engine
 </details>
 <details><summary>
@@ -72,8 +72,8 @@
 </details>
 
 ## Bugs to Fix | Changes to Make
-- [ ] PWA -> top bugs back to white when switching themes
-- [ ] PWA -> top color isnt consistant with quran reader header
+- [x] ~PWA -> top bugs back to white when switching themes~
+- [ ] PWA -> top color isnt consistant with quran reader header especially in dark theme
 - [ ] PWA -> top has border when moving from dark theme to sepia
 - [ ] DATA -> The translator's name should be in the language that they translated in
 - [ ] DATA -> Populate ur.farmanali to 100%
