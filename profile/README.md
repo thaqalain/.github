@@ -74,7 +74,7 @@
 ## Bugs to Fix | Changes to Make
 - [x] ~PWA -> top bugs back to white when switching themes~
 - [ ] PWA -> top color isnt consistant with quran reader header especially in dark theme
-- [ ] PWA -> top has border when moving from dark theme to sepia
+- [ ] PWA -> top has border when moving from dark theme to sepia (Compact and Add image, maybe part of mobile top bar)
 - [ ] DATA -> The translator's name should be in the language that they translated in
 - [ ] DATA -> Populate ur.farmanali to 100%
 - [ ] APP -> decide about feature/daily-infographic
