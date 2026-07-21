@@ -15,7 +15,7 @@
 - [ ] Audio
 - [ ] Data annotation and commiting  portal
 - [ ] Add Rabbana duas
-- [ ] Add Tawdeeh ul Masail
+- [ ] Add share capability
 - [ ] Create tajweed engine
 </details>
 <details><summary>
@@ -68,6 +68,7 @@
 </summary>
 
 - [ ] Add Nahjulbalagha
+- [ ] Add Tawdeehulmasail
 </details>
 
 ## Bugs to Fix | Changes to Make
