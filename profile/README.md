@@ -63,6 +63,12 @@
 - [ ] Add Sahifah al-Mahdiyya
 </details>
 
+### Other Books (expand to see more)
+</summary>
+
+- [ ] Add Nahjulbalagha
+</details>
+
 ## Bugs to Fix | Changes to Make
 - [ ] PWA -> top bugs back to white when switching themes
 - [ ] PWA -> top color isnt consistant with quran reader header
