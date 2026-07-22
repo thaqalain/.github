@@ -79,10 +79,10 @@
 - [ ] DATA -> Populate ur.farmanali to 100%
 - [ ] APP -> decide about feature/daily-infographic
 - [ ] APP -> Change order of english,arabic in sahifah sajjadiyah list
-- [ ] APP -> Change "Search Chapter" -> "Search" in SahifahSajjadiyah
-- [ ] APP -> Translation sizer
-- [ ] APP -> "Days of the Week" -> "Duas of the Days of the Week"
-- [ ] APP -> Make list view and left sidebar collapsed by default
+- [ ] ~APP -> Change "Search Chapter" -> "Search" in SahifahSajjadiyah~
+- [x] ~APP -> Translation sizer~
+- [x] ~APP -> "Days of the Week" -> "Duas of the Days of the Week"~
+- [x] ~APP -> Make list view and left sidebar collapsed by default~
 - [x] ~APP -> Change the mobile keyboard for side panel search~
 - [x] ~APP -> Add bundling urdu font Jameel Noori Nastaleeq~
 - [x] ~ORG -> Change Organization data structure to individual repos for each data source. Main data repo will pull release files. Source repos will only run pipeline once or when needed, then will only be maintained~
