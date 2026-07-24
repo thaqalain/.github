@@ -84,6 +84,7 @@ itnaashar.com
 - [ ] DATA -> Populate ur.farmanali to 100%
 - [ ] APP -> decide about feature/daily-infographic
 - [ ] APP -> Change order of english,arabic in sahifah sajjadiyah list
+- [ ] APP -> Fix cached pages, since offline mode cant access
 - [x] ~APP -> Change "Search Chapter" -> "Search" in SahifahSajjadiyah~
 - [x] ~APP -> Fix Urdu spacing~
 - [x] ~APP -> Translation sizer~
