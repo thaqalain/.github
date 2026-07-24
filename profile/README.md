@@ -16,6 +16,7 @@ itnaashar.com
 - [x] ~Full verse transliteration~
 - [x] ~Add share capability~
 - [ ] Add regional sources (IndoPak, etc)
+- [ ] Add translation color
 - [ ] Add searching capability by Quranic Arabic/Transliteration/Language
 - [ ] Audio
 - [ ] Data annotation and commiting  portal
@@ -83,8 +84,8 @@ itnaashar.com
 - [ ] DATA -> Populate ur.farmanali to 100%
 - [ ] APP -> decide about feature/daily-infographic
 - [ ] APP -> Change order of english,arabic in sahifah sajjadiyah list
-- [ ] ~APP -> Change "Search Chapter" -> "Search" in SahifahSajjadiyah~
-- [ ] APP -> Fix Urdu spacing
+- [x] ~APP -> Change "Search Chapter" -> "Search" in SahifahSajjadiyah~
+- [x] ~APP -> Fix Urdu spacing~
 - [x] ~APP -> Translation sizer~
 - [x] ~APP -> "Days of the Week" -> "Duas of the Days of the Week"~
 - [x] ~APP -> Make list view and left sidebar collapsed by default~
