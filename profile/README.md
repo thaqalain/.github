@@ -17,7 +17,7 @@ itnaashar.com
 - [x] ~Add share capability~
 - [x] ~Add translation color~
 - [ ] Create tajweed engine -> Add regional sources (IndoPak, etc)
-- [ ] Add searching capability by Quranic Arabic/Transliteration/Language
+- [x] ~Add searching capability by Quranic Arabic/Transliteration/Language~
 - [ ] Audio
 - [ ] Data annotation and commiting  portal
 - [ ] Add Rabbana duas
