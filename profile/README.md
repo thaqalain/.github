@@ -16,7 +16,7 @@ itnaashar.com
 - [x] ~Full verse transliteration~
 - [x] ~Add share capability~
 - [ ] Add regional sources (IndoPak, etc)
-- [ ] Add translation color
+- [x] ~Add translation color~
 - [ ] Add searching capability by Quranic Arabic/Transliteration/Language
 - [ ] Audio
 - [ ] Data annotation and commiting  portal
@@ -84,7 +84,7 @@ itnaashar.com
 - [ ] DATA -> Populate ur.farmanali to 100%
 - [ ] APP -> decide about feature/daily-infographic
 - [ ] APP -> Change order of english,arabic in sahifah sajjadiyah list
-- [ ] APP -> Fix cached pages, since offline mode cant access
+- [x] ~APP -> Fix cached pages, since offline mode cant access~
 - [x] ~APP -> Change "Search Chapter" -> "Search" in SahifahSajjadiyah~
 - [x] ~APP -> Fix Urdu spacing~
 - [x] ~APP -> Translation sizer~
