@@ -84,6 +84,8 @@ itnaashar.com
 - [ ] APP -> decide about feature/daily-infographic
 - [ ] APP -> Change order of english,arabic in sahifah sajjadiyah list
 - [ ] APP -> Fix favicon
+- [ ] APP -> Move bismala and salawat above content in sahfiah
+- [ ] Fix Heading in Sahifah
 - [x] ~APP -> Fix cached pages, since offline mode cant access~
 - [x] ~APP -> Change "Search Chapter" -> "Search" in SahifahSajjadiyah~
 - [x] ~APP -> Fix Urdu spacing~
