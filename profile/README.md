@@ -76,16 +76,24 @@ itnaashar.com
 </details>
 
 ## Bugs to Fix | Changes to Make
+### Data Changes
+- [ ] Check Quran Arabic
+- [ ] Check Quran Translations
+- [ ] Check Quran Tajweed
+- [ ] Check Sahifah Sajjadiyah Arabic
+- [ ] Check Sahifah Sajjadiyah Translations
+- [ ] Check Mafatih Content
+- [ ] The translator's name should be in the language that they translated in
+- [x] ~Populate ur.farmanali to 100%~
+### Others
 - [x] ~PWA -> top bugs back to white when switching themes~
 - [ ] PWA -> top color isnt consistant with quran reader header especially in dark theme
 - [ ] PWA -> top has border when moving from dark theme to sepia (Compact and Add image, maybe part of mobile top bar)
-- [ ] DATA -> The translator's name should be in the language that they translated in
-- [x] ~DATA -> Populate ur.farmanali to 100%~
 - [ ] APP -> decide about feature/daily-infographic
 - [ ] APP -> Change order of english,arabic in sahifah sajjadiyah list
-- [ ] APP -> Fix favicon
 - [ ] APP -> Move bismala and salawat above content in sahfiah
-- [ ] Fix Heading in Sahifah
+- [ ] APP -> Fix Heading in Sahifah
+- [x] ~APP -> Fix favicon~
 - [x] ~APP -> Fix cached pages, since offline mode cant access~
 - [x] ~APP -> Change "Search Chapter" -> "Search" in SahifahSajjadiyah~
 - [x] ~APP -> Fix Urdu spacing~
