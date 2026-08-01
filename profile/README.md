@@ -52,7 +52,7 @@ itnaashar.com
 </summary>
 
 - [ ] Add Sahifah al-Muhammadiyya
-- [ ] Add Sahifah al-Alawiyya
+- [x] ~Add Sahifah al-Alawiyya~
 - [ ] Add Sahifah al-Fatimiyya
 - [ ] Add Sahifah al-Hasaniyya
 - [ ] Add Sahifah al-Husayniyya
