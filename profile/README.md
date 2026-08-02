@@ -86,6 +86,7 @@ itnaashar.com
 - [ ] The translator's name should be in the language that they translated in
 - [x] ~Populate ur.farmanali to 100%~
 ### Others
+- [ ] APP -> Downloaded data doesn't work when new update deployed
 - [x] ~PWA -> top bugs back to white when switching themes~
 - [ ] PWA -> top color isnt consistant with quran reader header especially in dark theme
 - [ ] PWA -> top has border when moving from dark theme to sepia (Compact and Add image, maybe part of mobile top bar)
